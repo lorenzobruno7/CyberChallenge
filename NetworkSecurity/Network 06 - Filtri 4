@@ -1,0 +1,5 @@
+Per filtrare i pacchetti che contengono una specifica stringa in Wireshark, si utilizza il filtro "frame contains".
+
+Ad esempio, se stai cercando la stringa “test”, il tuo filtro sarebbe:
+
+frame contains "test"
