@@ -1,0 +1,9 @@
+Network 08 - Estrazione di bytes
+
+Questa challenge si concentra nell'analizzare ed estrarre i bytes di un determinato pacchetto.
+Per ottenere la flag è necessario estrarre i bytes di questo pacchetto ed analizzarne il contenuto.
+
+Filtrando i pacchetti con ip.src == 192.168.100.1 si restringe la lista di pacchetti a quelli inviati dall'host da noi interessato.
+L'unico pacchetto con dati presenti è il 10, che contiene anche il flag tcp PSH (Push).
+
+Selezioniamo i bytes relativi alla parte "data", li esportiamo come file bin e lo apriamo e all'interno otteniamo la flag.
