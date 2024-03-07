@@ -1,0 +1,7 @@
+# Network 05 - Filtri 3
+
+In Wireshark, “frame.comment” e “pkt_comment” sono usati per gestire i commenti sui pacchetti, ma hanno funzioni diverse:
+
+frame.comment: Questo è il campo che contiene il commento effettivo123. Puoi usarlo per visualizzare i commenti che hai aggiunto come una nuova colonna o per cercare pacchetti che contengono una stringa specifica nei loro commenti2.
+pkt_comment: Questo è un campo booleano che indica se esiste un commento nel pacchetto13. Non mostra il commento stesso, ma restituisce un valore vero o falso a seconda della presenza di un commento13.
+Quindi, se vuoi visualizzare o cercare il contenuto dei commenti, dovresti usare frame.comment. Se vuoi sapere se un pacchetto ha un commento, indipendentemente dal suo contenuto, dovresti usare pkt_comment
