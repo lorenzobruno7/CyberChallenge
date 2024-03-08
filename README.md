@@ -19,15 +19,15 @@ Soluzioni delle challenge della CyberChallenge 2024
 # Training challenges
 ## Web Security
 
-✅ WS_1.01 - BasicRCE
-WS_1.02 - PHPisLovePHPisLife
-WS_1.03 - ZipZap - level 1
-WS_1.03 - ZipZap - level 2
-WS_1.04 - plottyboy
-WS_1.05 - ssrf basics - level 1
-WS_1.05 - ssrf basics - level 2
-WS_1.05 - ssrf basics - level 3
-WS_1.05 - ssrf basics - level 4
-WS_1.06 - 302camo
-WS_1.07 - basic lfi
-WS_1.08 - not a bug
+* ✅ WS_1.01 - BasicRCE
+* WS_1.02 - PHPisLovePHPisLife
+* WS_1.03 - ZipZap - level 1
+* WS_1.03 - ZipZap - level 2
+* WS_1.04 - plottyboy
+* WS_1.05 - ssrf basics - level 1
+* WS_1.05 - ssrf basics - level 2
+* WS_1.05 - ssrf basics - level 3
+* WS_1.05 - ssrf basics - level 4
+* WS_1.06 - 302camo
+* WS_1.07 - basic lfi
+* WS_1.08 - not a bug
