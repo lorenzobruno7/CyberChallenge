@@ -1,5 +1,6 @@
 # CyberChallenge
-Soluzioni delle challenge della CyberChallenge 2024
+Questa repository contiene i writeup riguardanti le challenge proposte nella piattaforma di allenamento di Cyberhcallenge 2024.
+Non sono riportati i siti o i comandi utilizzati per la soluzione ma solamente il ragionamento effettuato per il raggiungimento delle flag.
 
 # Introduction
 
